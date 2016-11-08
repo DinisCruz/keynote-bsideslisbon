@@ -21,3 +21,4 @@
 ---
  Related to:
   *  [PT Hacking Service](PT-Hacking-Service.md)
+  * [Health Analogy](Health-Analogy.md)
