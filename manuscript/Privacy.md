@@ -7,6 +7,8 @@ type: content
 
 ### Defend privacy
 
+Edward Snowden said, "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say."
+
 The right to privacy is a human right, and it is essential for human dignity.
 
 Everyone should be innocent until proven guilty.
@@ -17,6 +19,8 @@ Large tech companies' business models are often based on their users having no, 
 
 Governments are actively making the internet less secure so they can continue to easily access users' data.
 
+There must be space for new global players who play by different rules, namely the rules that defend individuals and civil society.
+
 ### Cryptography
 
 Cryptography is a public service and capability, as it enables the end-user to control their data. It is crucial to protect user data. Cryptography also has an excellent tradition of not relying on security by obscurity, or expecting the attacker to have all the code and encrypted data (the only private data are the encryption keys).
@@ -25,7 +29,6 @@ Strong crypto is a good thing, especially if it enables the end-user to control 
 We need a healthy level of civil disobedience in society, or new ideas will not get the space to flourish and gain wider acceptance by society.
 
 Our parents fought against racism, and for pensions, human rights, and rock & roll.  It is our turn to realign society and shift the balance of power. This is about removing control from central organizations (governments, big companies) and give them to individuals and collaborative commons. Currently power is in the hands of whoever controls the networks.
-
 
 ### The Need for Disclosure
 
@@ -38,6 +41,8 @@ We need to use the concepts of new software workflows like DevOps and release-of
 Whistleblowers are important because they can make the markets more efficient. Whistleblowers are not needed when public actions, and statements, match the real, private actions.
 
 Of course, there will still be secrets, but in smaller numbers, and they will be very well protected, as they are today. "When everything is a secret, nothing is a secret".
+
+Integrity and availability are much harder and dangerous than confidentiality. Compare this idea with all the current focus on data privacy or credit card leaks.
 
 ### Protected by law
 
